@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DecoratorPattern.ClientClass.Client" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientClass\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Component.Beverage" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component\Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.ConcreteComponent.Expresso" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteComponent\Expresso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.ConcreteDecorator.Caramel" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteDecorator\Caramel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.ConcreteDecorator.Chocolate" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConcreteDecorator\Chocolate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Decorator.ExtraDecorator" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAFAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Decorator\ExtraDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Program" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
